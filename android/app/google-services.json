@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532753558583",
+    "project_id": "zodiacapp2",
+    "storage_bucket": "zodiacapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532753558583:android:aca6ac8f74afb03595e3b2",
+        "android_client_info": {
+          "package_name": "com.example.zodiac_talks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532753558583-0m0tq26n8973jl9fv61hic6012tp635u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYK65GDV2xu9Q6JD6orFltABUemgbtyro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532753558583-0m0tq26n8973jl9fv61hic6012tp635u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
